@@ -1,0 +1,13 @@
+feedparser>=6.0
+requests>=2.31
+openai>=1.30
+python-dotenv>=1.0
+pywin32>=306
+markdown>=3.6
+keyboard>=0.13
+pystray>=0.19
+pillow>=10.0
+customtkinter>=5.2
+beautifulsoup4>=4.12   # market_intelligence
+playwright>=1.44       # market_intelligence_v1.3.py — LinkedIn sync automático
+                       # Após instalar: playwright install chromium
